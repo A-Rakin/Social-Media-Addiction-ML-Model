@@ -16,7 +16,6 @@ Classification Report:
    macro avg       0.99      0.98      0.99       141
 weighted avg       0.99      0.99      0.99       141
 
-
 For Random Forest
 
 Cross-Validation Accuracy Scores: [1. 1. 1. 1. 1.]
