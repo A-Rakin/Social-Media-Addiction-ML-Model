@@ -15,6 +15,6 @@ For K Nearest Neighbour
 
 Accuracy Score: 0.9290780141843972
 
-After Hyper Parameter Tuning Grid Search CV
+After Hyper Parameter Tuning Grid Search CV in KNN
 
 Accuracy Score: 0.9716312056737588
